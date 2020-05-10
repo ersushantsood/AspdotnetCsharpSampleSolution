@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AspDotNetApplication\CSharpRefresher\obj\Debug\CSharpRefresher.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AspDotNetApplication\CSharpRefresher\obj\Debug\CSharpRefresher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AspDotNetApplication\CSharpRefresher\bin\Debug\CSharpRefresher.exe.config
+C:\Users\User\source\repos\AspDotNetApplication\CSharpRefresher\bin\Debug\CSharpRefresher.exe
+C:\Users\User\source\repos\AspDotNetApplication\CSharpRefresher\bin\Debug\CSharpRefresher.pdb
+C:\Users\User\source\repos\AspDotNetApplication\CSharpRefresher\obj\Debug\CSharpRefresher.exe
+C:\Users\User\source\repos\AspDotNetApplication\CSharpRefresher\obj\Debug\CSharpRefresher.pdb
